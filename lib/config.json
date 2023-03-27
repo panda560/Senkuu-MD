@@ -1,16 +1,16 @@
 {
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "Senkuu",
-  "botNumber": "6283823742094@s.whatsapp.net",
-  "owner": ["6281312960392@s.whatsapp.net"],
-  "instagram": "https://instagram.com/repannthisori021_",
+  "namebot": "PandaBotz",
+  "botNumber": "855389162590@s.whatsapp.net",
+  "owner": ["6282181337337@s.whatsapp.net"],
+  "instagram": "https://instagram.com/arrezza20",
   "author": "Yntkts",
   "session": "senku-md",
   "email": "yntkts@gmail.com",
   "self": false,
   "packInfo":{
-    "packname": "Senkuu",
-    "author": "Beta ✓"
+    "packname": "PandaBotz by",
+    "author": "@arrezza20"
   },
   "ignore": {
 		"directory": ["umum"]
